@@ -74,6 +74,20 @@
 
 
 /*  Simulate Button Press */
+.function:active {
+	border-bottom: 2px #6f6f6f solid;
+	border-top:  black 2px solid;
+	
+}
 
+.operator:active {
+	border-bottom: 2px #6f6f6f solid;
+	border-top:  black 2px solid;
+	
+}
 
-
+.number:active {
+	border-bottom: 2px #6f6f6f solid;
+	border-top:  black 2px solid;
+	
+}
