@@ -3,6 +3,15 @@
 
 /*   Calculator Box  */
 .box {
+<<<<<<< HEAD
+	background-color: #e5e7ea;
+	height: 300px;
+	width:250px;
+	border-radius: 10px;
+	position: relative;
+	top: 80px;
+	left:40%;
+=======
 	background-image: url("images/CandyCane");
 	height: 350px;
 	width:350px;
@@ -13,11 +22,16 @@
 	border: red 2px solid;
 	padding-left: 66px;
 	padding-top: 40px
+>>>>>>> version1.1
 }
 
 /*  Display */
 .display {
+<<<<<<< HEAD
+	background-color: #BFC4CE;
+=======
 	background-color: #FF0004;
+>>>>>>> version1.1
 	width:220px;
 	position: relative;
 	left: 15px;
@@ -31,7 +45,11 @@
 	height: 30px;
 	width: 210px;
 	color: black;
+<<<<<<< HEAD
+	background-color: #bccd95;
+=======
 	background-color: #FFC6F4;
+>>>>>>> version1.1
 	font-size: 21px;
 	text-align: right;
 	
@@ -55,6 +73,16 @@
 
 .button.function {
 	color: white;
+<<<<<<< HEAD
+	background-color: #c64f81;
+	border-bottom: black 2px solid;
+	border top: 2px #6f6f6f solid;
+}
+
+.button.operator {
+		color: white;
+	background-color: #4d5966;
+=======
 	background-color: #FFA6A8;
 	border-bottom: black 2px solid;
 	border-top: 2px #6f6f6f solid;
@@ -63,13 +91,19 @@
 .button.operator {
 	color: white;
 	background-color: #B10667;
+>>>>>>> version1.1
 	border-bottom: black 2px solid;
 	border-top: 2px #6f6f6f solid;
 }
 
 .button.number {
+<<<<<<< HEAD
+		color: white;
+	background-color: #7091ab;
+=======
 	color: white;
 	background-color: #F05E9F;
+>>>>>>> version1.1
 	border-bottom: black 2px solid;
 	border-top: 2px #6f6f6f solid;
 }
