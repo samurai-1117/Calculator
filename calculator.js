@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 // JavaScript Document
-=======
+
 // JavaScript Document// JavaScript Document
->>>>>>> version1.1
+
 
 
 //  Change Display
@@ -23,10 +23,9 @@ function e(val) {
 	catch(err) {
 		d("Error");
 	}
-<<<<<<< HEAD
-}
-=======
+
 }
 
+
 //decimal places
->>>>>>> version1.1
+
